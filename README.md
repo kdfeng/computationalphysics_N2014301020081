@@ -5,5 +5,5 @@
   - [x] [Exercise_02](https://www.zybuluo.com/2014301020081/note/513262)
   - [x] [Exercise_03](https://www.zybuluo.com/2014301020081/note/505439)
   - [x] [Exercise_04:1.5](https://www.zybuluo.com/2014301020081/note/524337)
-  - [ ] Exercise_05
+  - [x] [Exercise_05:problem2.6](https://www.zybuluo.com/2014301020081/note/534564)
   - [ ] Exercise_06
