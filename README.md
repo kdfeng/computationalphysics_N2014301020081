@@ -6,4 +6,4 @@
   - [x] [Exercise_03](https://www.zybuluo.com/2014301020081/note/505439)
   - [x] [Exercise_04:1.5](https://www.zybuluo.com/2014301020081/note/524337)
   - [x] [Exercise_05:problem2.6](https://www.zybuluo.com/2014301020081/note/534564)
-  - [ ] Exercise_06
+  - [x] [Exercise_06:problem2.10L1](https://www.zybuluo.com/2014301020081/note/542351)
