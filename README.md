@@ -8,3 +8,8 @@
   - [x] [Exercise_05:problem2.6](https://www.zybuluo.com/2014301020081/note/534564)
   - [x] [Exercise_06:problem2.10L1](https://www.zybuluo.com/2014301020081/note/542351)
   - [x] [Exercise_0:problem3.12](https://www.zybuluo.com/2014301020081/note/550700)
+  
+  
+量子力学作业
+ - [x] [3.6,3.7,3.8](https://www.zybuluo.com/2014301020081/note/563342)
+
