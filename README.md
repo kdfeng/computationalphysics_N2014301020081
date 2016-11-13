@@ -7,7 +7,8 @@
   - [x] [Exercise_04:1.5](https://www.zybuluo.com/2014301020081/note/524337)
   - [x] [Exercise_05:problem2.6](https://www.zybuluo.com/2014301020081/note/534564)
   - [x] [Exercise_06:problem2.10L1](https://www.zybuluo.com/2014301020081/note/542351)
-  - [x] [Exercise_0:problem3.12](https://www.zybuluo.com/2014301020081/note/550700)
+  - [x] [Exercise_07:problem3.12](https://www.zybuluo.com/2014301020081/note/550700)
+  - [x] [Exercise_08:problem3.18&3.20](https://www.zybuluo.com/2014301020081/note/534564)
   
   
 量子力学作业
