@@ -1,3 +1,4 @@
+
 # computationalphysics_N2014301020081
 ----------
 ###Kongde Kong  2014301020081
@@ -12,5 +13,6 @@
   
   
 量子力学作业
-  - [x] [3.6,3.7,3.8](https://www.zybuluo.com/2014301020081/note/563342)
+  - [x] [One:3.6,3.7,3.8](https://www.zybuluo.com/2014301020081/note/563342)
+  - [x] [Two:3.9,3.10,3.12,3.16](https://www.zybuluo.com/2014301020081/note/568556)
 
