@@ -17,4 +17,4 @@
 ###量子力学作业
   - [x] [One:3.6,3.7,3.8](https://www.zybuluo.com/2014301020081/note/563342)
   - [x] [Two:3.9,3.10,3.12,3.16](https://www.zybuluo.com/2014301020081/note/568556)
-  - [x] [There:4.1,4.2,4.3,4.4](https://www.zybuluo.com/2014301020081/note/576073)
+  - [x] [Three:4.1,4.2,4.3,4.4](https://www.zybuluo.com/2014301020081/note/576073)
