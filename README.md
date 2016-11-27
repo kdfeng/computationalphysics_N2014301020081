@@ -11,6 +11,7 @@
   - [x] [Exercise_07:problem3.12](https://www.zybuluo.com/2014301020081/note/550700)
   - [x] [Exercise_08:problem3.18&3.20](https://www.zybuluo.com/2014301020081/note/534564)
   - [x] [Exercise_09:problem3.30](https://www.zybuluo.com/2014301020081/note/573131)
+  - [x] [Exercise_10:problem4.8](https://www.zybuluo.com/2014301020081/note/580357)
 
 
 
