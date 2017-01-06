@@ -14,9 +14,10 @@
   - [x] [Exercise_10:problem4.8](https://www.zybuluo.com/2014301020081/note/580357)
   - [x] [Exercise_11:problem4.19好像忘上传了](https://www.zybuluo.com/2014301020081/note/588240)  
   - [x] [Exercise_12:problem5.1](https://www.zybuluo.com/2014301020081/note/597899)
-  
-  
-  
+  - [x] [Exercise_13:problem6.9] 
+  - [x] [end of term:problem7.1,7.2,7.3](https://www.zybuluo.com/2014301020081/note/624286)
+  
+  
   
 ###量子力学作业
   - [x] [One:3.6,3.7,3.8](https://www.zybuluo.com/2014301020081/note/563342)
@@ -26,3 +27,4 @@
   - [x] [Five:5.7,5.8,5.9,5.10,5.11,5.12](https://www.zybuluo.com/2014301020081/note/592619)  
   - [x] [six:6.1,6.2,6.3,7.1,7.2补交](https://www.zybuluo.com/2014301020081/note/607718)  
   - [x] [seven:7.3,7.4,9.1,9.2,9.3](https://www.zybuluo.com/2014301020081/note/607719)
+  - [x] [eight:]
