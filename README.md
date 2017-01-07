@@ -27,4 +27,4 @@
   - [x] [Five:5.7,5.8,5.9,5.10,5.11,5.12](https://www.zybuluo.com/2014301020081/note/592619)  
   - [x] [six:6.1,6.2,6.3,7.1,7.2补交](https://www.zybuluo.com/2014301020081/note/607718)  
   - [x] [seven:7.3,7.4,9.1,9.2,9.3](https://www.zybuluo.com/2014301020081/note/607719)
-  - [x] [eight:]
+  - [x] [eight:9.5,9.6](https://www.zybuluo.com/2014301020081/note/625464)
