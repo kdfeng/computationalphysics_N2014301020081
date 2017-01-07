@@ -12,9 +12,9 @@
   - [x] [Exercise_08:problem3.18&3.20](https://www.zybuluo.com/2014301020081/note/534564)
   - [x] [Exercise_09:problem3.30](https://www.zybuluo.com/2014301020081/note/573131)
   - [x] [Exercise_10:problem4.8](https://www.zybuluo.com/2014301020081/note/580357)
-  - [x] [Exercise_11:problem4.19好像忘上传了](https://www.zybuluo.com/2014301020081/note/588240)  
+  - [x] [Exercise_11:problem4.19](https://www.zybuluo.com/2014301020081/note/588240)  
   - [x] [Exercise_12:problem5.1](https://www.zybuluo.com/2014301020081/note/597899)
-  - [x] [Exercise_13:problem6.9] 
+  - [x] [Exercise_13:problem6.12补交作业](https://www.zybuluo.com/2014301020081/note/624901)
   - [x] [end of term:problem7.1,7.2,7.3](https://www.zybuluo.com/2014301020081/note/624286)
   
   
